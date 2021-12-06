@@ -1,5 +1,9 @@
-//Joshua I. Martinez 
-//Date:10/31/2021
+//Student Name:Joshua Martinez
+//Teacher: Dr. Tyson McMillan
+//School: Tarrant County College
+//Date: 10/31/2021
+//Purpose:A program to practice working with basic Programming techniques and planning in order to make a useful programm.
+//Learnt: I learned to work use planning, and basic technique that would become useful in the future./2021
 #include <iostream>
 using namespace std;
 
